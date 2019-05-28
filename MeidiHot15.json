@@ -1,0 +1,2710 @@
+{
+    "data": [
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "3082122",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img11.360buyimg.com/mobilecms/jfs/t26830/185/2124982882/95441/620c859d/5bf7c4b6N715193f2.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/27190/19/6851/195887/5c64e577Ea537d161/e3b8b545be3649c6.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/21595/3/9825/280388/5c821245E8e341328/bce46d37c8bb9c49.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t27661/153/473594262/178361/a7e86638/5baef333N7c45fdaa.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t25096/352/493705887/180590/542eb441/5b715362N39c86ea7.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t24445/213/1998124346/191445/6a826048/5b715366Nabfeb8e1.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t25000/20/1945294126/209762/4c0ca978/5bbf24bcN925a602a.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t27520/191/1023470245/212030/4bce66a1/5bbf24b6N86778c1f.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t3274/273/2387833242/88481/1fa2093a/57e0f220Nb37e3cfa.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/31184/14/2933/141226/5c6fa0deE1158dfe4/0e131f23c349073f.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.97,
+            "title": "美的（Midea）正1.5匹 变频 智弧 冷暖 智能壁挂式卧室空调挂机 KFR-35GW/WDAA3@",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/3082122.html",
+            "selfSale": true,
+            "tags": [
+                "安装师负责",
+                "风格独特",
+                "冷热两用",
+                "美观大方",
+                "声音很轻",
+                "外观漂亮",
+                "功能合理",
+                "使用方便",
+                "使用舒适",
+                "清晰度佳",
+                "风大马力足",
+                "省时便捷",
+                "优质好用"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-35G/WDAA3@",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-35GW/WDAA3@",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1.5匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "变频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "3级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "制冷：15-23（㎡）；制热：17-23（㎡）",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "3500",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "1060（90~1700）",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "4400",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1430（90~1755）+1050",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "18-37-42",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "50",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "3.7",
+                    "key": "变频机能效比"
+                },
+                {
+                    "value": "660",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "新冷媒（R410a）",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "870*275*205",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "807（857）*555*328",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "9.5",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "29",
+                    "key": "外机重量（kg）"
+                },
+                {
+                    "value": "智能控制、光敏传感、ECO节能",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 365297,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 200,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "2883289",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img11.360buyimg.com/mobilecms/jfs/t29632/113/590219768/95441/620c859d/5bf7c498Nf957946c.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/20578/22/6922/196098/5c64e551E657c44be/0d38a35d97db8299.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/10181/39/13376/279659/5c8211d4E6ab0f8d8/7ebafb22506d26c0.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t27634/182/313771623/178361/a7e86638/5baef308N5a900502.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t25879/99/516070926/180590/542eb441/5b7153e2N5ff83542.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t24817/91/501381732/191445/6a826048/5b7153e8N864d8256.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t26368/195/986796038/209762/4c0ca978/5bbf2466N169f24be.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t26368/251/1007087653/212030/4bce66a1/5bbf248aN62f11fdf.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t3193/205/2356938844/84764/b661ba9b/57e0f16aNae0e43e9.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/28377/39/7805/141243/5c6fa0b6E4c11590a/34eb489772402f8f.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.982,
+            "title": "美的（Midea）大1匹 变频 智弧 冷暖 智能壁挂式卧室空调挂机 KFR-26GW/WDAA3@",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/2883289.html",
+            "selfSale": true,
+            "tags": [
+                "安装师傅棒",
+                "外观漂亮",
+                "冷热两用",
+                "美观大方",
+                "声音很轻",
+                "尺寸适宜",
+                "使用舒适",
+                "方便省事",
+                "易于操控",
+                "清洁能力强",
+                "风大马力足",
+                "省时便捷",
+                "优质好用"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-26GW/WDAA3@",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-26GW/WDAA3@",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "变频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "3级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "制冷：11-17（㎡）；制热：13-17（㎡）",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "2600",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "750(90-1500)",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "3700",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1160(90~1580)+1050",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "18-35-40",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "50",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "3.70",
+                    "key": "变频机能效比"
+                },
+                {
+                    "value": "600",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "新冷媒（R410a）",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "820*275*205",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "728（785）*555*300",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "9kg",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "26kg",
+                    "key": "外机重量（kg）"
+                },
+                {
+                    "value": "智能控制、光敏传感、ECO节能",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 280236,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 120,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "4093819",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img10.360buyimg.com/mobilecms/jfs/t26434/160/2107845761/58009/8b7b3176/5bf7c737Na3d73a8d.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/22948/33/7043/183234/5c64e613E310a8572/98ad98a62896640a.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/22550/3/9783/245600/5c821301Ec14515d8/ba0a04370fda500d.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t1/6769/19/5114/155139/5bdbed11Ef1ea361c/de975030eafc44fe.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/10725/21/845/125062/5bdbed12E2aa13d5c/14354324a0c559d9.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t27022/285/175637645/260403/9c357655/5b879440N064b58e9.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/10532/12/824/154675/5bdbed12Eded2b4aa/b172d5d83af6bddc.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t25783/271/1103735706/282464/f6b701ed/5b879442N1c71cfef.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t5197/159/850282811/132403/8fc10141/5908245eN69c54069.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/25243/25/7823/143331/5c6fa46bEb0110178/98c2861e676cec62.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.978,
+            "title": "美的（Midea）3匹 智行 静音 圆柱立柜式 定速冷暖 客厅空调柜机 KFR-72LW/DY-YA400(D3)",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/4093819.html",
+            "selfSale": true,
+            "tags": [
+                "安装服务好",
+                "制冷给力",
+                "时尚美观",
+                "外观漂亮",
+                "高端大气",
+                "温度较高",
+                "风大马力足",
+                "方便省事",
+                "不占空间",
+                "十分静音",
+                "运行流畅",
+                "省时便捷",
+                "优质好用"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-72LW/DY-YA400(D3)",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-72LW/DY-YA400(D3)",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "立柜式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "3匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "定频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "3级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "制冷：32-48（㎡）；制热：36-49（㎡）",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "7250",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "2350",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "8200",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "2450",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "2400",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "23-42",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "48-55",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "3.09",
+                    "key": "定频机能效比"
+                },
+                {
+                    "value": "1200",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "左右扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "氟利昂（R22)",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "405×1775×405",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "921(982)×712×398",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "34",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "60",
+                    "key": "外机重量（kg）"
+                },
+                {
+                    "value": "23分贝静音、智能除湿",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 68962,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 400,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "2883267",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img12.360buyimg.com/mobilecms/jfs/t27145/168/2094939520/95441/ae225d3d/5bf7c478N49d51827.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/28133/40/6968/196343/5c64e5c5E7c664c7c/8afb02a044ee61d2.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t1/25421/40/9981/280321/5c821297Eb75455e4/34ea1044d6a6d645.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t24838/138/1343283874/178361/a7e86638/5baef2feNb7249bc7.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t24631/182/491567645/264325/717ac5fc/5b72ab89Ncc9e9c73.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/11556/28/2042/194624/5c109fb0E0b1049c9/f2e3e6ed45f89ea6.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t26590/116/1017950154/209762/4c0ca978/5bbf2526N0d615ef2.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t27508/319/1042283898/212030/4bce66a1/5bbf252aNb8f33ce3.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t3235/293/2359321587/78327/742f2348/57e0f304N9575d20c.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/10007/32/11399/141226/5c6fa118E1e41c42d/0bf6cefae0bd36e7.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.99,
+            "title": "美的（Midea）正1.5匹 智弧 智能 静音 光线感应 定速冷暖 壁挂式卧室空调挂机 KFR-35GW/WDAD3@",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/2883267.html",
+            "selfSale": true,
+            "tags": [
+                "安装师傅棒",
+                "开关机快速",
+                "冷热两用",
+                "风格独特",
+                "外观漂亮",
+                "美观大方",
+                "方便省事",
+                "办公必备",
+                "使用方便",
+                "声音很轻",
+                "使用舒适",
+                "风大马力足",
+                "口碑很好"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-35GW/WDAD3@",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-35GW/WDAD3@",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1.5匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "定频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "3级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "制冷：15-23（㎡）制热：17-23（㎡）",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "3550",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "1080",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "3950",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1130",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "24-37-41",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "50",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "3.29",
+                    "key": "定频机能效比"
+                },
+                {
+                    "value": "650",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "氟利昂（R22)",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "870*275*205",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "807（857）*555*328",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "9.5",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "33",
+                    "key": "外机重量（kg）"
+                },
+                {
+                    "value": "光敏传感、智能云控",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 381828,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 223,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "4884790",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img13.360buyimg.com/mobilecms/jfs/t28603/239/287365696/58009/8b7b3176/5bf7c6b7N68220004.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/23511/6/6865/183234/5c64e5f4E30f79d62/336e34ea1dfa5f5b.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/25172/28/10031/245600/5c821328E056aa212/57fbd259b57ee81a.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/1187/13/14602/155139/5bdbe9e3Edf704b1d/efcd62b404033758.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/1329/35/14696/125062/5bdbe9eaE4cdd29e6/049aa6b76a47efd3.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t22636/59/2596416731/260403/9c357655/5b879402Nfa15038d.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t27418/139/157436579/282464/f6b701ed/5b879404N617a809d.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t1/2171/6/14713/154675/5bdbea1cEf0267809/56093334527be9ad.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t5383/278/848801845/131488/78f97bd2/59082400N9d190e1d.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/16047/21/7848/143492/5c6fa453E3e65d53d/9cb0c89366fb0566.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.981,
+            "title": "美的（Midea）2匹 智行 静音 圆柱立柜式 定速冷暖 客厅空调柜机 KFR-51LW/DY-YA400(D3)",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/4884790.html",
+            "selfSale": true,
+            "tags": [
+                "安装成功",
+                "美观大气",
+                "美观大方",
+                "外观漂亮",
+                "制冷给力",
+                "不占空间",
+                "声音很轻",
+                "效果显著",
+                "风大马力足",
+                "运行流畅",
+                "客厅适用",
+                "适合家用",
+                "保修期长"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-51LW/DY-YA400(D3)",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-51LW/DY-YA400(D3)",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "圆柱式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "2匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "定频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "3级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "制冷：23-34（㎡）；制热：27-36（㎡）",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "5250",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "1600",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "5800",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1610",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "2200",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "23-38",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "48-53",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "3.28",
+                    "key": "定频机能效比"
+                },
+                {
+                    "value": "1000",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "左右扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "氟利昂（R22)",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "405×1775×405",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "921(982)×712×398",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "33",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "52",
+                    "key": "外机重量（kg）"
+                },
+                {
+                    "value": "23分贝静音、智能除湿",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 85404,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 300,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "4087397",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/24448/16/2471/106663/5c1c819bEe8b98d09/f5e38b44884e19bb.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/25072/30/7065/226100/5c665531Eba937d62/e6a82cc8a138c9e4.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/32160/12/4483/226343/5c7e3584E5ab2ceea/36aba49c7e90c0a1.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/25318/32/9758/248583/5c821094Ee112c759/6f747f14ba9dec12.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/30589/6/2124/314199/5c667ea6Ebd147cd8/31e29c280da83e8f.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t26908/252/1262203184/241777/ffaba6e4/5bc565feN835813ce.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/9812/33/14050/475768/5c4ac6d3Edc9c04d7/9da8fd3738887669.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t27652/327/324409577/224867/c3e3216c/5b8e5eb3N82fb69c4.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t5158/74/863367671/141187/8ac9a3e4/590823c3N61b7c027.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/17998/8/7702/138018/5c6fa08eE3bb32962/6150dbd6cfbe4926.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.978,
+            "title": "美的（Midea）1.5匹 一级能效 i青春 小京鱼APP控制 变频冷暖壁挂式空调挂机KFR-35GW/WCEN8A1@",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/4087397.html",
+            "selfSale": true,
+            "tags": [
+                "安装服务好",
+                "制冷给力",
+                "风格独特",
+                "美观大方",
+                "外观漂亮",
+                "节能环保",
+                "使用舒适",
+                "十分安静",
+                "组装便捷",
+                "方便省事",
+                "风大马力足",
+                "多快好省",
+                "优质好用"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "i青春II",
+                    "key": "系列"
+                },
+                {
+                    "value": "KFR-35GW/WCEN8A1@",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-35GW/WCEN8A1@",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1.5匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "变频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "1级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "15-23",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "3500（200-4860）",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "770(75-1450)",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "5000（200-6280）",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1450(90W-1930W)",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "18-37-42",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "38-51",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "4.90",
+                    "key": "变频机能效比"
+                },
+                {
+                    "value": "630",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下/左右扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "R32",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "880*295*195",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "807（857）*555*328",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "10",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "32",
+                    "key": "外机重量（kg）"
+                }
+            ],
+            "commentCount": 62931,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 147,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "6790447",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img11.360buyimg.com/mobilecms/jfs/t30715/188/591234531/84568/2ea224/5bf7c3d5Na8fcfea8.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/32269/10/2035/178007/5c64e70dE5b99f36e/d2bf81e3732b21e6.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/28080/24/9881/247444/5c820f9eEc0851785/6c9a1617f64958e3.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t25324/24/1079131478/276356/e80bb5d7/5b88ab61Ne1e57230.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t26062/349/2001532693/120485/515f3144/5bc06fb7Nc37f31c3.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t27778/130/190914242/90227/12b36b1c/5b88ab63Na9998d2f.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t24934/108/1948374462/238597/acecdcd8/5bc06fb8N943e3624.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t25093/75/2011665690/192591/186a2388/5bc06fb8Nf3c23da0.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t22639/128/1097515274/66512/bbf5bc3c/5b50293eN0909fca7.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/10642/23/13554/79352/5c821a2bE1f74740a/9487d5d67334fd7d.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.909,
+            "title": "美的（Midea）正1.5匹 一级能效变频 冷暖壁挂式 卧室 防直吹空调挂机KFR-35GW/BP3DN8Y-PH200(B1)",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/6790447.html",
+            "selfSale": true,
+            "tags": [
+                "安装成功",
+                "制冷给力",
+                "外观漂亮",
+                "声音很轻",
+                "节能环保",
+                "美观大方",
+                "效果显著",
+                "美观大气",
+                "使用舒适",
+                "运行流畅",
+                "风大马力足",
+                "优质好用",
+                "口碑很好"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-35GW/BP3DN8Y-PH200(B1)",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-35GW/BP3DN8Y-PH200(B1)",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1.5匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "变频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "1级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "制冷15-23（㎡），制热17-23（㎡）",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "3500（300-4400）",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "795",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "4900（300-6210）",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1330",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "18-37-42",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "38-51",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "4.73",
+                    "key": "变频机能效比"
+                },
+                {
+                    "value": "630",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下/左右扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "R32",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "880*295*195",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "807(857)*555*328",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "10.5",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "32",
+                    "key": "外机重量（kg）"
+                }
+            ],
+            "commentCount": 27049,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 234,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img10.360buyimg.com/cms/jfs/t1/22368/22/6849/129662/5c63cdb9Ee674770b/246325e2140e89fc.gif",
+                "http://img12.360buyimg.com/cms/jfs/t1/21817/35/6836/79201/5c63ce6aEce34e5cb/7415cf0ef5487b97.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t1/18153/8/6789/74491/5c63cdb9E20bc562a/d88b8703dc0db5f2.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/16107/30/6217/82019/5c497230E9f057dc5/7ad4183c779b0357.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/7076/15/10729/102222/5c247f54Edf37f563/d4a6ff3daf5fbccf.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/31563/13/4351/244207/5c7c9368E40a44d82/af3ca45810551846.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/19478/25/9240/237360/5c7c9368E8d949b69/df628e8532742403.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/12048/2/9390/318106/5c7c9368Efb332457/32a7a59527283529.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/26975/4/9207/178479/5c7c9368E67fd18aa/a6175c11f55cade5.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/11734/30/9778/308309/5c7c9368Eca95c065/7c3484afcb1978f7.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/22215/38/9255/233381/5c7c9368E7e3de1ae/cd1a274de2147f5c.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/30111/1/4257/90097/5c7c9368E1782b738/1d845e88a935c116.jpg"
+            ],
+            "sellerId": "1000002827",
+            "id": "6384654",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/159/17/11967/49461/5bcfd78bE7b79a978/1e7d31f03bff0094.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/23101/33/8765/109834/5c788ae9Efd9636b5/e12c45ff8af28cc6.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/9851/12/1505/85428/5bcea66eE510b05f2/1f651449a87c3072.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t30478/126/452502079/557455/2656c5f1/5bf3e859N558cf423.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t29581/10/488834000/390667/3d26d0a5/5bf3e85eNf5486e08.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t30457/245/459125306/556516/fddee8f5/5bf3e873Nbe0feb7b.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t18868/99/711331323/246990/52071648/5a9e6acfN4ad99777.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t25507/171/496205334/54544/d78f1f26/5b724669N4a6c2a88.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t16630/322/690242442/52383/4aff226c/5a9f7ff5N12df80ad.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t29464/12/472469806/107031/9dcd304a/5bf3e879Nb2141af4.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的洗衣机京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.967,
+            "title": "美的（Midea）波轮洗衣机全自动  健康自清洗 10分钟快洗 一键脱水 智能童锁 8公斤 MB80V31",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/6384654.html",
+            "selfSale": true,
+            "tags": [
+                "方便省事",
+                "安装服务好",
+                "尺寸适宜",
+                "美观大气",
+                "操作便捷",
+                "使用舒适",
+                "美观大方",
+                "不占空间",
+                "清洁能力强",
+                "动力强劲",
+                "声音很轻",
+                "方便快捷",
+                "口碑很好"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的",
+                    "key": "品牌"
+                },
+                {
+                    "value": "MB80V31",
+                    "key": "型号"
+                },
+                {
+                    "value": "MB80V31",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "波轮式",
+                    "key": "类别"
+                },
+                {
+                    "value": "全自动",
+                    "key": "自动化程度"
+                },
+                {
+                    "value": "LED数码屏显示",
+                    "key": "显示方式"
+                },
+                {
+                    "value": "电脑控制",
+                    "key": "控制方式"
+                },
+                {
+                    "value": "顶开式",
+                    "key": "开门方式"
+                },
+                {
+                    "value": "下排水",
+                    "key": "排水方式"
+                },
+                {
+                    "value": "普通电机",
+                    "key": "电机类型"
+                },
+                {
+                    "value": "支持",
+                    "key": "中途添衣"
+                },
+                {
+                    "value": "支持",
+                    "key": "脱水功能"
+                },
+                {
+                    "value": "支持",
+                    "key": "儿童安全锁"
+                },
+                {
+                    "value": "支持",
+                    "key": "自动断电"
+                },
+                {
+                    "value": "2级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "0.8",
+                    "key": "洗净比"
+                },
+                {
+                    "value": "8",
+                    "key": "水位选择（段）"
+                },
+                {
+                    "value": "家纺、快洗、轻柔、童装、浸洗、标准、强洗",
+                    "key": "洗衣程序"
+                },
+                {
+                    "value": "8",
+                    "key": "洗涤容量（kg）"
+                },
+                {
+                    "value": "480",
+                    "key": "洗涤功率（W）"
+                },
+                {
+                    "value": "480",
+                    "key": "脱水功率（W）"
+                },
+                {
+                    "value": "常温",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "镀锌钢板",
+                    "key": "箱体材质"
+                },
+                {
+                    "value": "不锈钢",
+                    "key": "内筒材质"
+                },
+                {
+                    "value": "565*550*920",
+                    "key": "产品尺寸（深×宽×高）mm"
+                },
+                {
+                    "value": "645*649*1010",
+                    "key": "包装尺寸（深x宽x高）mm"
+                },
+                {
+                    "value": "33",
+                    "key": "产品重量（kg）"
+                }
+            ],
+            "commentCount": 228101,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 467,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "2883257",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img13.360buyimg.com/mobilecms/jfs/t27868/238/2112814311/95441/ae225d3d/5bf7c45eN3e200893.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/30985/40/2055/195256/5c64e59fE8082fbe4/ed8901a9ee6e3b1f.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/27298/13/9912/279924/5c821267E90b7b674/efc7d407958f386e.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t27316/322/462385287/178361/a7e86638/5baef2c5N0223d6c7.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t24013/188/2083004406/264325/717ac5fc/5b72a9dbN0f25c202.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/8940/32/8837/194624/5c109f6dEcdc3b1a3/d5e5005214e809c3.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t26371/46/1038433237/209762/4c0ca978/5bbf24f2N4e595fd4.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t25108/297/1932980152/212030/4bce66a1/5bbf24edN0220e22b.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t3301/35/2340306764/74659/71248a74/57e0f2dbN8e4f12ab.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/18758/8/7807/141243/5c6fa0ffE67adb2bb/ca6d9b98c700d2d8.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.991,
+            "title": "美的（Midea）大1匹 智弧 智能 静音 光线感应 定速冷暖 壁挂式卧室空调挂机 KFR-26GW/WDAD3@",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/2883257.html",
+            "selfSale": true,
+            "tags": [
+                "安装服务好",
+                "冷热两用",
+                "美观大气",
+                "外观漂亮",
+                "美观大方",
+                "声音很轻",
+                "使用舒适",
+                "方便省事",
+                "耐用性佳",
+                "操作便捷",
+                "长辈适用",
+                "运行流畅",
+                "保修期长"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "KFR-26GW/WDAD3@",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-26GW/WDAD3@",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "定频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "3级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "制冷：11-17(㎡)；制热：13-17（㎡））",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "2690W",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "815",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "3050W",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "845",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050W",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "22-34-39",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "49",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "3.3",
+                    "key": "定频机能效比"
+                },
+                {
+                    "value": "560",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "氟利昂（R22)",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "820*275*205",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "728(785)*555*300",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "9",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "29",
+                    "key": "外机重量（kg）"
+                },
+                {
+                    "value": "光敏传感、智能云控",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 358193,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 234,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": null,
+            "sellerId": "1000001359",
+            "id": "1404743",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img13.360buyimg.com/mobilecms/jfs/t20503/186/2458533163/101960/71fcfe06/5b56ddcaNfa469fcd.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t24268/90/2446596035/544765/613a342/5b7fb0deN3ce96c2b.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t23557/221/2412920620/202165/52b254fb/5b7fb13eNbbacef16.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t24793/211/884521212/265757/bdc53998/5b7fb141Nd23eaca5.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t3280/223/534299674/137386/c189afe3/57ba6ca4N42d02ba5.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t3016/30/923504366/220744/d111bdeb/57ba6cbeN9cad7f8d.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t5758/103/1596304692/63332/fab932f/5927ed98N2aba9db3.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t18430/25/2661621249/323900/773ece5b/5b06268bN9dc74ef6.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的厨房小家电京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.977,
+            "title": "美的（Midea）M1-L213B 快捷微波炉 360°转盘加热 旋钮操控 精准控温 五档火力 21升",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/1404743.html",
+            "selfSale": true,
+            "tags": [
+                "易于操控",
+                "长辈适用",
+                "方便省事",
+                "外观漂亮",
+                "美观大方",
+                "加热效果好",
+                "尺寸适宜",
+                "噪音很小",
+                "测量精准",
+                "火力强劲",
+                "耐用性佳",
+                "优质好用",
+                "口碑很好"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea ）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "M1-L213B",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "机械式",
+                    "key": "操作方式"
+                },
+                {
+                    "value": "转盘式",
+                    "key": "底盘类型"
+                },
+                {
+                    "value": "21",
+                    "key": "容量"
+                },
+                {
+                    "value": "2015",
+                    "key": "上市时间"
+                },
+                {
+                    "value": "不支持",
+                    "key": "光波功能"
+                },
+                {
+                    "value": "不支持",
+                    "key": "烧烤功能"
+                },
+                {
+                    "value": "不支持",
+                    "key": "预约功能"
+                },
+                {
+                    "value": "不支持",
+                    "key": "童锁功能"
+                },
+                {
+                    "value": "侧拉门",
+                    "key": "开门方式"
+                },
+                {
+                    "value": "800W以下",
+                    "key": "微波功率"
+                },
+                {
+                    "value": "220V",
+                    "key": "额定电压"
+                },
+                {
+                    "value": "50HZ",
+                    "key": "额定频率"
+                },
+                {
+                    "value": "11.3",
+                    "key": "产品净重（kg）"
+                },
+                {
+                    "value": "459*374*281",
+                    "key": "产品尺寸（mm）"
+                },
+                {
+                    "value": "315*325*202",
+                    "key": "内腔尺寸（mm）"
+                }
+            ],
+            "commentCount": 995223,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 123,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img10.360buyimg.com/cms/jfs/t1/22368/22/6849/129662/5c63cdb9Ee674770b/246325e2140e89fc.gif",
+                "http://img12.360buyimg.com/cms/jfs/t1/21817/35/6836/79201/5c63ce6aEce34e5cb/7415cf0ef5487b97.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t1/18153/8/6789/74491/5c63cdb9E20bc562a/d88b8703dc0db5f2.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/16107/30/6217/82019/5c497230E9f057dc5/7ad4183c779b0357.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/7076/15/10729/102222/5c247f54Edf37f563/d4a6ff3daf5fbccf.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t29842/119/19572800/117067/c1a418ba/5be553a1Ne8f868d7.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t29944/120/15399263/131449/22569d7b/5be553a1Ne7c89fb2.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t24688/129/2421713230/120758/b45338ec/5be553a1N6094607e.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t25663/239/2422214735/123844/f32739ff/5be553a1Na435d244.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t25156/227/2394174587/163259/65a0145d/5be553a1Nb85c8fe6.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t29122/98/15640745/123735/8438eff9/5be553a1Ndfb93e7a.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t30229/250/12373926/119752/dd8f2412/5be553a1N41b4fa56.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t30382/269/10644347/79947/6f40469c/5be553a1N6976f95d.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t30877/216/13350455/70305/d529e83a/5be553a1N4d37963b.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t26812/128/1522116223/119893/977c4b1c/5be553a1N9c42ada3.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t28831/108/16135202/96314/50391c92/5be553a1N04d9f6df.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t26509/217/1538955738/189337/3e4440a0/5be553a1N064b3160.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t30406/292/14521894/128839/19e79897/5be553a1Nfef4cfd7.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t26221/208/1561186880/104051/9ed5a65b/5be553a1N56a24d8f.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t24634/138/2445244976/121195/e47f0952/5be553a1N51e6c4dc.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t26509/219/1563862728/117968/66e7022b/5be553a1N8f5734e8.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t26593/221/1522260644/189757/3f360e52/5be553a1N26489bc5.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t29092/218/15170406/96506/9567349f/5be553a1N84f9d7ae.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t24712/123/2461671267/166131/39cd1aff/5be553a1N7745740a.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t27466/183/1552010540/151075/29f7cac4/5be553a1N3a166b04.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t27268/183/1538967703/94178/182e5a39/5be553a1Nf87456ef.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t28930/103/18953573/125350/263168df/5be553a1Ncbc366f0.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t29305/95/15117822/90823/9a22b928/5be553a1N2f73cc6a.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t29461/106/17440328/125335/b21b284/5be553a1N71d3451b.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t25651/240/2389224495/131456/3f6577a4/5be553a1Nc3c0c91b.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t30757/214/20495273/162934/14f9b2ff/5be553a1Nefcd8155.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t29110/100/15356807/137100/c8580e0a/5be553a1Nad62f5f6.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t1/411/38/13738/159165/5bd829a3Edb9dd132/4ef58a61af0f2d14.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/9135/34/7643/119246/5c066159Eeca61c50/9ab585f9940f4134.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/17958/39/22/138614/5c066159Ec27735a6/7d217226582202d9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/31368/35/5524/93953/5c8728bcEc70e4bf2/b100b3dd6d1a4ee8.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29514/22/10418/87048/5c8729c0Ec4c822a3/25f11ffddedb1754.jpg"
+            ],
+            "sellerId": "1000002827",
+            "id": "3832553",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/4342/20/11605/72081/5bcfddb3E81afb970/aa0b3257a4ecf13a.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/19432/28/8710/132608/5c7890e2Ec29421e9/06f38045d00bea89.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t24676/170/2723340867/325862/dd801ba7/5bece215Ncb28f005.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t30229/246/241417783/485689/da9708b4/5bece215N31bcf6b6.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t27286/220/1770094182/242111/18f48ce2/5bece215N67341925.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t27688/279/1737479989/305574/93be3a94/5bece214N98477ffb.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/17884/19/2363/171780/5c1c91f6E8dfe8a03/cbeb0d5e129a9621.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/17689/33/1898/215100/5c175a06E2bef592b/69c06552096a8140.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t19138/25/742654570/50588/e30c147f/5aa27d05N9a145ae5.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t29419/243/453544944/107031/9dcd304a/5bf3ef47Nd072696e.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的洗衣机京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.972,
+            "title": "美的（Midea）滚筒洗衣机全自动  巴氏除菌洗 智能WiFi 智能时间可调 8公斤变频 MG80V330WDX",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/3832553.html",
+            "selfSale": true,
+            "tags": [
+                "声音很轻",
+                "安装服务好",
+                "美观大气",
+                "功能合理",
+                "外观漂亮",
+                "温度较高",
+                "高端大气",
+                "易于操控",
+                "使用舒适",
+                "清洁能力强",
+                "空间够大",
+                "省时便捷",
+                "优质好用"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的 Midea",
+                    "key": "品牌"
+                },
+                {
+                    "value": "简尚",
+                    "key": "系列"
+                },
+                {
+                    "value": "MG80V330WDX",
+                    "key": "型号"
+                },
+                {
+                    "value": "MG80V330WDX",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "滚筒式",
+                    "key": "类别"
+                },
+                {
+                    "value": "全自动",
+                    "key": "自动化程度"
+                },
+                {
+                    "value": "LED触摸宽屏控制",
+                    "key": "显示方式"
+                },
+                {
+                    "value": "电脑控制",
+                    "key": "控制方式"
+                },
+                {
+                    "value": "前开式",
+                    "key": "开门方式"
+                },
+                {
+                    "value": "下排水",
+                    "key": "排水方式"
+                },
+                {
+                    "value": "变频电机",
+                    "key": "电机类型"
+                },
+                {
+                    "value": "支持",
+                    "key": "中途添衣"
+                },
+                {
+                    "value": "支持",
+                    "key": "脱水功能"
+                },
+                {
+                    "value": "支持",
+                    "key": "儿童安全锁"
+                },
+                {
+                    "value": "支持",
+                    "key": "预约功能"
+                },
+                {
+                    "value": "不支持",
+                    "key": "夜间洗"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热洗涤"
+                },
+                {
+                    "value": "支持",
+                    "key": "自动断电"
+                },
+                {
+                    "value": "支持",
+                    "key": "智能断电记忆"
+                },
+                {
+                    "value": "支持",
+                    "key": "排水阀漏水保护"
+                },
+                {
+                    "value": "支持",
+                    "key": "进水阀漏水保护"
+                },
+                {
+                    "value": "1级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "1.03",
+                    "key": "洗净比"
+                },
+                {
+                    "value": "4",
+                    "key": "水位选择（段）"
+                },
+                {
+                    "value": "大件、漂洗+脱水、智能洗、衬衫、筒自洁",
+                    "key": "洗衣程序"
+                },
+                {
+                    "value": "8",
+                    "key": "洗涤容量（kg）"
+                },
+                {
+                    "value": "120",
+                    "key": "洗涤功率（W）"
+                },
+                {
+                    "value": "最大1400",
+                    "key": "脱水转速"
+                },
+                {
+                    "value": "550",
+                    "key": "脱水功率（W）"
+                },
+                {
+                    "value": "常温",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "30",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "40",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "60",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "95",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "镀锌钢板",
+                    "key": "箱体材质"
+                },
+                {
+                    "value": "不锈钢",
+                    "key": "内筒材质"
+                },
+                {
+                    "value": "220V/50HZ",
+                    "key": "电源规格"
+                },
+                {
+                    "value": "560*595*850",
+                    "key": "产品尺寸（深×宽×高）mm"
+                },
+                {
+                    "value": "705×700×980",
+                    "key": "包装尺寸（深x宽x高）mm"
+                },
+                {
+                    "value": "69",
+                    "key": "产品重量（kg）"
+                },
+                {
+                    "value": "内筒照明、WIFI、抗菌门封圈",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 139522,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 623,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img10.360buyimg.com/cms/jfs/t1/22368/22/6849/129662/5c63cdb9Ee674770b/246325e2140e89fc.gif",
+                "http://img12.360buyimg.com/cms/jfs/t1/21817/35/6836/79201/5c63ce6aEce34e5cb/7415cf0ef5487b97.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t1/18153/8/6789/74491/5c63cdb9E20bc562a/d88b8703dc0db5f2.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/16107/30/6217/82019/5c497230E9f057dc5/7ad4183c779b0357.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/7076/15/10729/102222/5c247f54Edf37f563/d4a6ff3daf5fbccf.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/29/1/15491/233595/5bdb125cEc9096387/2d559441b0f22667.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/7163/4/4475/132237/5bdb125cEb6a43446/44fe681a85e374ea.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/9392/4/4554/216099/5bdb125cEde2770a1/076838c67d546f0f.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/2914/19/14392/67569/5bdb125bE36cab82c/745dbc9505a5a077.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/10047/26/592/193227/5bdb125cE40f3bcdb/6292f0f927409511.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/2721/16/14470/154404/5bdb125cE8aa6f647/d3cc747a47db0dac.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/9327/1/4566/208335/5bdb125cEccf5bca4/9ca682722912ee4a.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/1999/3/14348/102125/5bdb125cE23eedc10/0168ac240a7eb92d.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/5654/2/14211/332583/5bdb125cEf30d2397/065d8a59a56c8241.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/6104/15/4956/190440/5bdb125cEdc923f0a/342c27fd8f64986a.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t1/10704/30/614/177097/5bdb125cE34bc8af9/641f940c4dced2fa.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/6943/12/4955/178277/5bdb125cEacd7538b/d3dfb64551ce91d9.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/3709/11/14214/293330/5bdb125cE52afea9b/9bd8a614bec9ebb3.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/2710/36/14230/340767/5bdb125cEbb4b774d/d8353afa48c40b9d.jpg",
+                "http://img12.360buyimg.com/cms/jfs/t1/7736/8/4606/170455/5bdb125cE5d4c18a3/805cb4e30a65cd09.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/6029/2/5007/138702/5bdb125cE51a0b67c/b5875b69d3b32fa6.jpg",
+                "http://img10.360buyimg.com/cms/jfs/t1/1975/33/14398/201359/5bdb125cEb91441e1/65853ab138a90a05.jpg",
+                "http://img11.360buyimg.com/cms/jfs/t1/4113/36/14428/323567/5bdb125cE1fa1cb23/44ee53d98bfd8c89.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/5039/26/14411/248127/5bdb125cE62ed3a74/b188b51ad460f66a.jpg",
+                "http://img13.360buyimg.com/cms/jfs/t1/9135/34/7643/119246/5c066159Eeca61c50/9ab585f9940f4134.jpg",
+                "http://img14.360buyimg.com/cms/jfs/t1/17958/39/22/138614/5c066159Ec27735a6/7d217226582202d9.jpg"
+            ],
+            "sellerId": "1000002827",
+            "id": "6601403",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img11.360buyimg.com/mobilecms/jfs/t1/8311/35/1800/60947/5bcfd734Ed11a0c61/4fec79d6f8dd6d96.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/9551/30/16339/113238/5c788aa2Ee42a11c5/04283b6032b44e4a.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/1920/22/11077/83797/5bcea6a6E9b9ad115/4c24841ed8601a4a.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t27082/250/1957383050/557455/2656c5f1/5bf3e7faN7f216700.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t28204/265/446418893/390667/3d26d0a5/5bf3e802Nada9e211.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t30217/66/451423989/537750/21bb42be/5bf3e813N119c2886.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t17521/132/707559256/216684/8c2260d7/5a9f861bN03d452b3.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t26788/72/857615570/117645/99464253/5bbb0fadN45344b2a.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t15205/290/2499821322/52173/95f2cbbb/5a9f8628N10afa291.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t26377/65/1955875177/107031/9dcd304a/5bf3e81aNa1d338dc.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的洗衣机京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.948,
+            "title": "美的（Midea）波轮洗衣机全自动  健康自清洗 10分钟快洗 一键脱水 7.2公斤 MB72V31",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/6601403.html",
+            "selfSale": true,
+            "tags": [
+                "声音很轻",
+                "安装服务好",
+                "方便省事",
+                "容量适宜",
+                "风格独特",
+                "操作便捷",
+                "自动化高",
+                "美观大方",
+                "长辈适用",
+                "清洁能力强",
+                "不占空间",
+                "振动柔和",
+                "省时便捷"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的",
+                    "key": "品牌"
+                },
+                {
+                    "value": "MB72V31",
+                    "key": "型号"
+                },
+                {
+                    "value": "MB72V31",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "波轮式",
+                    "key": "类别"
+                },
+                {
+                    "value": "全自动",
+                    "key": "自动化程度"
+                },
+                {
+                    "value": "LED数码屏显示",
+                    "key": "显示方式"
+                },
+                {
+                    "value": "电脑控制",
+                    "key": "控制方式"
+                },
+                {
+                    "value": "顶开式",
+                    "key": "开门方式"
+                },
+                {
+                    "value": "下排水",
+                    "key": "排水方式"
+                },
+                {
+                    "value": "普通电机",
+                    "key": "电机类型"
+                },
+                {
+                    "value": "支持",
+                    "key": "中途添衣"
+                },
+                {
+                    "value": "支持",
+                    "key": "脱水功能"
+                },
+                {
+                    "value": "支持",
+                    "key": "预约功能"
+                },
+                {
+                    "value": "支持",
+                    "key": "自动断电"
+                },
+                {
+                    "value": "2级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "0.8",
+                    "key": "洗净比"
+                },
+                {
+                    "value": "8",
+                    "key": "水位选择（段）"
+                },
+                {
+                    "value": "快洗 家纺 轻柔 童装 标准 浸洗 强洗",
+                    "key": "洗衣程序"
+                },
+                {
+                    "value": "7.2",
+                    "key": "洗涤容量（kg）"
+                },
+                {
+                    "value": "140",
+                    "key": "洗涤转速"
+                },
+                {
+                    "value": "400",
+                    "key": "洗涤功率（W）"
+                },
+                {
+                    "value": "700",
+                    "key": "脱水转速"
+                },
+                {
+                    "value": "400",
+                    "key": "脱水功率（W）"
+                },
+                {
+                    "value": "常温",
+                    "key": "水温调节范围"
+                },
+                {
+                    "value": "镀锌钢板",
+                    "key": "箱体材质"
+                },
+                {
+                    "value": "不锈钢",
+                    "key": "内筒材质"
+                },
+                {
+                    "value": "525*515*920",
+                    "key": "产品尺寸（深×宽×高）mm"
+                },
+                {
+                    "value": "590*580*990",
+                    "key": "包装尺寸（深x宽x高）mm"
+                },
+                {
+                    "value": "31",
+                    "key": "产品重量（kg）"
+                },
+                {
+                    "value": "预约",
+                    "key": "特性"
+                }
+            ],
+            "commentCount": 125315,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 324,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": [
+                "http://img30.360buyimg.com/sku/jfs/t1/15821/12/9546/97506/5c7f62dfE4176b295/815c0ab5078b77ff.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/27128/23/9495/89741/5c7f62dfE4403ac38/24bafb2a667405cb.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/29797/6/9638/66370/5c7f62ddE9a0a5f26/621d5d45e053dfc9.jpg",
+                "http://img30.360buyimg.com/sku/jfs/t1/32218/30/4738/61180/5c7f62c9Eaa1a14cd/2c2e62d231622608.jpg"
+            ],
+            "sellerId": "1000001452",
+            "id": "4871348",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/27821/31/2376/106663/5c1c8187E2cf35e7d/85d1f11ea576624b.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/31938/18/2000/220938/5c64de2fE4efe6312/825b9993411145b5.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/15497/7/5778/222912/5c41a3e1Ea2e5cc28/bd931f0aaadfa5d0.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/26790/30/9894/245974/5c821062E0534d80a/6ee0bc88d87d61c4.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/20467/8/6993/314199/5c6660e4Ed569c635/cc1278bb0c28cc31.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t25633/177/2175431446/241777/ffaba6e4/5bc56591Nc506c98a.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/30026/4/1367/475768/5c4ac6a8Ed96830fa/619ba22a02a70a22.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t26101/218/1219110109/224867/c3e3216c/5b8e5da3Nbe036186.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t4495/319/3969340124/143592/6ec0e514/5908236cN82dc733f.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/31805/6/2982/138018/5c6fa06bEfc293161/b3865339249f39ed.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的空调京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.977,
+            "title": "美的（Midea）大1匹 一级能效 i青春 小京鱼APP控制 变频冷暖壁挂式空调挂机KFR-26GW/WCEN8A1@",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/4871348.html",
+            "selfSale": true,
+            "tags": [
+                "安装规范",
+                "冷热两用",
+                "时尚美观",
+                "外观漂亮",
+                "声音很轻",
+                "高端大气",
+                "节能环保",
+                "使用舒适",
+                "操作便捷",
+                "反应迅速",
+                "功能合理",
+                "省时便捷"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea）",
+                    "key": "品牌"
+                },
+                {
+                    "value": " i青春II",
+                    "key": "系列"
+                },
+                {
+                    "value": "KFR-26GW/WCEN8A1@",
+                    "key": "型号"
+                },
+                {
+                    "value": "KFR-26GW/WCEN8A1@",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "白色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "壁挂式",
+                    "key": "类别"
+                },
+                {
+                    "value": "冷暖",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "1匹",
+                    "key": "匹数"
+                },
+                {
+                    "value": "变频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "1级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "支持",
+                    "key": "电辅加热"
+                },
+                {
+                    "value": "11-17",
+                    "key": "适用面积(平方米)"
+                },
+                {
+                    "value": "2600（200-4450）",
+                    "key": "制冷量(W)"
+                },
+                {
+                    "value": "585(75-1550)",
+                    "key": "制冷功率(W)"
+                },
+                {
+                    "value": "4400（200-5850）",
+                    "key": "制热量(W)"
+                },
+                {
+                    "value": "1210（90-1815）",
+                    "key": "制热功率(W)"
+                },
+                {
+                    "value": "1050",
+                    "key": "电辅加热功率(W)"
+                },
+                {
+                    "value": "18-36-41",
+                    "key": "内机噪音(dB(A)"
+                },
+                {
+                    "value": "38-51",
+                    "key": "外机噪音(dB(A)"
+                },
+                {
+                    "value": "4.95",
+                    "key": "变频机能效比"
+                },
+                {
+                    "value": "580",
+                    "key": "循环风量(m3/h)"
+                },
+                {
+                    "value": "上下/左右扫风",
+                    "key": "扫风方式"
+                },
+                {
+                    "value": "R32",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220/50",
+                    "key": "电压/频率（V/HZ）"
+                },
+                {
+                    "value": "880*295*195",
+                    "key": "内机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "807（857）*555*328",
+                    "key": "外机尺寸（宽x高x深）mm"
+                },
+                {
+                    "value": "10",
+                    "key": "内机重量（kg）"
+                },
+                {
+                    "value": "28",
+                    "key": "外机重量（kg）"
+                }
+            ],
+            "commentCount": 42966,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 411,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": null,
+            "sellerId": "1000001091",
+            "id": "2943313",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img10.360buyimg.com/mobilecms/jfs/t24640/200/2682113837/101688/3cee2e31/5becd0bdNa890d4ef.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/7821/12/2071/243322/5bd18137E3b593a74/33e4a22aecb02992.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t23437/66/1742051336/110129/39844e87/5b690d0eNf8b15b83.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/7456/23/2180/210321/5bd18138E6ad9edb6/8bb58be9beb9af63.jpg",
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/8775/7/2226/301479/5bd18138E48bcbf3c/3bdf2bfd7fd55554.jpg",
+                "https://img11.360buyimg.com/mobilecms/jfs/t1/6751/1/2617/283288/5bd18139E14ff6715/641a94c7b8a14919.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/868/34/12342/300030/5bd1813aE963b733c/2e4364a71545d6d4.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/5739/7/3139/169665/5b9888acEa1412703/346d05f5f03d69be.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的冰箱京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.986,
+            "title": "美的(Midea)226升 风冷无霜 电脑控温三门冰箱 中门宽幅变温 芙蓉金 BCD-226WTM(E)",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/2943313.html",
+            "selfSale": true,
+            "tags": [
+                "外观漂亮",
+                "美观大方",
+                "送货安装",
+                "空间足够",
+                "容量适宜",
+                "声音很轻",
+                "方便省事",
+                "使用舒适",
+                "制冷给力",
+                "超强配置",
+                "多人适用",
+                "适合家用",
+                "优质好用"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的",
+                    "key": "品牌"
+                },
+                {
+                    "value": "BCD-226WTM(E)",
+                    "key": "型号"
+                },
+                {
+                    "value": "BCD-226WTM(E)",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "金色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "三门",
+                    "key": "类别"
+                },
+                {
+                    "value": "左开门",
+                    "key": "开门方式"
+                },
+                {
+                    "value": "LED显示",
+                    "key": "显示方式"
+                },
+                {
+                    "value": "亚温带型（SN）-温带型（N）-亚热带型（ST）",
+                    "key": "气候类型"
+                },
+                {
+                    "value": "风冷",
+                    "key": "制冷方式"
+                },
+                {
+                    "value": "电脑式",
+                    "key": "控制方式"
+                },
+                {
+                    "value": "压缩机制冷",
+                    "key": "制冷类型"
+                },
+                {
+                    "value": "智能除霜",
+                    "key": "除霜模式"
+                },
+                {
+                    "value": "定频",
+                    "key": "定频/变频"
+                },
+                {
+                    "value": "226",
+                    "key": "总容积(升)"
+                },
+                {
+                    "value": "70（批次1）74（批次2）",
+                    "key": "冷冻室(升)"
+                },
+                {
+                    "value": "36（批次1）40（批次2）",
+                    "key": "变温室(升)"
+                },
+                {
+                    "value": "120（批次1）112（批次2）",
+                    "key": "冷藏室(升)"
+                },
+                {
+                    "value": "2.5kg/12h（批次1）1.5kg/12h（批次2）",
+                    "key": "冷冻能力(kg/24h)"
+                },
+                {
+                    "value": "2级",
+                    "key": "能效等级"
+                },
+                {
+                    "value": "0.75（批次1）0.66（批次2）",
+                    "key": "耗电量(KWh/24h)"
+                },
+                {
+                    "value": "39（批次1）40（批次2）",
+                    "key": "运转音dB(A)"
+                },
+                {
+                    "value": "R600a",
+                    "key": "制冷剂"
+                },
+                {
+                    "value": "220V/50Hz",
+                    "key": "电压/频率"
+                },
+                {
+                    "value": "650x583x1858（批次1）620X544X1830（批次2）",
+                    "key": "产品尺寸（深x宽x高）mm"
+                },
+                {
+                    "value": "705x640x1950（批次1）675X614X1920（批次2）",
+                    "key": "包装尺寸（深x宽x高）mm"
+                },
+                {
+                    "value": "62",
+                    "key": "产品重量（kg）"
+                }
+            ],
+            "commentCount": 184999,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 765,
+            "discount": null,
+            "saleRank": null
+        },
+        {
+            "brandId": "12380",
+            "queryWord": null,
+            "detailImageUrls": null,
+            "sellerId": "1000001359",
+            "id": "2469956",
+            "saleCount": null,
+            "soldout": null,
+            "storehouse": null,
+            "promotions": null,
+            "imageUrls": [
+                "https://img14.360buyimg.com/mobilecms/jfs/t1/20236/32/5089/49802/5c385fadE79a09c7c/10fa6b9c32a68aa5.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/27361/39/5092/59898/5c385fb5E7a7a18a9/196ae3a880fc7196.jpg",
+                "https://img12.360buyimg.com/mobilecms/jfs/t1/30978/17/168/76055/5c386011Edcb9e7f8/c78efc70d249fb86.jpg",
+                "https://img13.360buyimg.com/mobilecms/jfs/t1/25175/19/4987/200557/5c386015Ed0f995fb/fe750d14038f0f5a.jpg",
+                "https://img10.360buyimg.com/mobilecms/jfs/t1/20735/22/8238/230988/5c73cab5Ee907eb41/c5fa37d3b6188020.jpg"
+            ],
+            "publishDateStr": null,
+            "appPrice": null,
+            "subtitle": null,
+            "favoriteCount": null,
+            "brandName": "美的",
+            "mallType": 1,
+            "marketPrice": null,
+            "sellerScreenName": "美的厨房小家电京东自营旗舰店",
+            "highPrice": null,
+            "originPlace": null,
+            "likeCount": null,
+            "goodRatingRatio": 0.974,
+            "title": "美的（Midea）M1-L213C 快捷微波炉 微电脑操控 360°转盘加热 智能蒸煮菜单 21升",
+            "stockSize": null,
+            "catPathKey": null,
+            "url": "https://item.m.jd.com/product/2469956.html",
+            "selfSale": true,
+            "tags": [
+                "方便省事",
+                "美观大气",
+                "操作便捷",
+                "美观大方",
+                "加热效果好",
+                "长辈适用",
+                "尺寸适宜",
+                "方便快捷",
+                "声音很轻",
+                "口碑很好",
+                "不占空间",
+                "耐用性佳",
+                "原汁原味"
+            ],
+            "lowPrice": null,
+            "keyValues": [
+                {
+                    "value": "美的（Midea ）",
+                    "key": "品牌"
+                },
+                {
+                    "value": "M1-L213C",
+                    "key": "认证型号"
+                },
+                {
+                    "value": "红色、黑色",
+                    "key": "颜色"
+                },
+                {
+                    "value": "按键式",
+                    "key": "操作方式"
+                },
+                {
+                    "value": "转盘式",
+                    "key": "底盘类型"
+                },
+                {
+                    "value": "21L",
+                    "key": "容量"
+                },
+                {
+                    "value": "2016",
+                    "key": "上市时间"
+                },
+                {
+                    "value": "不支持",
+                    "key": "光波功能"
+                },
+                {
+                    "value": "不支持",
+                    "key": "蒸汽功能"
+                },
+                {
+                    "value": "按键门",
+                    "key": "开门方式"
+                },
+                {
+                    "value": "220V",
+                    "key": "额定电压"
+                },
+                {
+                    "value": "50hz",
+                    "key": "额定频率"
+                },
+                {
+                    "value": "11.3",
+                    "key": "产品净重（kg）"
+                },
+                {
+                    "value": "459*345*281",
+                    "key": "产品尺寸（mm）"
+                },
+                {
+                    "value": "315*325*202",
+                    "key": "内腔尺寸（mm）"
+                }
+            ],
+            "commentCount": 524138,
+            "publishDate": null,
+            "rating": 5.0,
+            "price": 127,
+            "discount": null,
+            "saleRank": null
+        }
+    ],
+    "retcode": "000000",
+    "hasNext": true,
+    "pageToken": "2",
+    "appCode": "jd",
+    "dataType": "product"
+}
